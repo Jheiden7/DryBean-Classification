@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/My%20Projects%20-%20English/Dry%20Bean%20Classification/mlruns/462293831170206625/495b39a16ad846c1a247809aaf404be2/artifacts
+end_time: 1761183505552
+entry_point_name: ''
+experiment_id: '462293831170206625'
+lifecycle_stage: active
+run_id: 495b39a16ad846c1a247809aaf404be2
+run_name: luminous-snail-645
+run_uuid: 495b39a16ad846c1a247809aaf404be2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761183498722
+status: 3
+tags: []
+user_id: jhonn

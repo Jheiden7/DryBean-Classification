@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/My%20Projects%20-%20English/Dry%20Bean%20Classification/mlruns/462293831170206625/acbacc0359b44ad4bd1ef81778469774/artifacts
+end_time: 1761183530541
+entry_point_name: ''
+experiment_id: '462293831170206625'
+lifecycle_stage: active
+run_id: acbacc0359b44ad4bd1ef81778469774
+run_name: secretive-shad-975
+run_uuid: acbacc0359b44ad4bd1ef81778469774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761183524382
+status: 3
+tags: []
+user_id: jhonn

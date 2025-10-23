@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/My%20Projects%20-%20English/Dry%20Bean%20Classification/mlruns/462293831170206625/214953c1f0fa4343b7978bb088138ff4/artifacts
+end_time: 1761183575005
+entry_point_name: ''
+experiment_id: '462293831170206625'
+lifecycle_stage: active
+run_id: 214953c1f0fa4343b7978bb088138ff4
+run_name: angry-bear-811
+run_uuid: 214953c1f0fa4343b7978bb088138ff4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761183568944
+status: 3
+tags: []
+user_id: jhonn

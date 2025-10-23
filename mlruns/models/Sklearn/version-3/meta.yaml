@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1761182949319
+current_stage: None
+description: null
+last_updated_timestamp: 1761182949319
+name: Sklearn
+run_id: c521a168c70741a9a0ba548ee6772f9e
+run_link: null
+source: file:///d:/My%20Projects%20-%20English/Dry%20Bean%20Classification/mlruns/462293831170206625/c521a168c70741a9a0ba548ee6772f9e/artifacts/logistic_regresion
+status: READY
+status_message: null
+storage_location: file:///d:/My%20Projects%20-%20English/Dry%20Bean%20Classification/mlruns/462293831170206625/c521a168c70741a9a0ba548ee6772f9e/artifacts/logistic_regresion
+user_id: null
+version: 3

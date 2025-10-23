@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/My%20Projects%20-%20English/Dry%20Bean%20Classification/mlruns/462293831170206625/1dd8a9b1936c48f1ac61d7074a2b03fd/artifacts
+end_time: 1761183404523
+entry_point_name: ''
+experiment_id: '462293831170206625'
+lifecycle_stage: active
+run_id: 1dd8a9b1936c48f1ac61d7074a2b03fd
+run_name: useful-lynx-820
+run_uuid: 1dd8a9b1936c48f1ac61d7074a2b03fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761183399509
+status: 3
+tags: []
+user_id: jhonn

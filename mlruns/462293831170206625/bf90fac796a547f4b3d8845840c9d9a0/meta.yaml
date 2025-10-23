@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/My%20Projects%20-%20English/Dry%20Bean%20Classification/mlruns/462293831170206625/bf90fac796a547f4b3d8845840c9d9a0/artifacts
+end_time: 1761183393912
+entry_point_name: ''
+experiment_id: '462293831170206625'
+lifecycle_stage: active
+run_id: bf90fac796a547f4b3d8845840c9d9a0
+run_name: awesome-vole-443
+run_uuid: bf90fac796a547f4b3d8845840c9d9a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761183388384
+status: 3
+tags: []
+user_id: jhonn

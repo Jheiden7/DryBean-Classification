@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/My%20Projects%20-%20English/Dry%20Bean%20Classification/mlruns/462293831170206625/2f2caea88e3945faa37223e93acb4f14/artifacts
+end_time: 1761182963277
+entry_point_name: ''
+experiment_id: '462293831170206625'
+lifecycle_stage: active
+run_id: 2f2caea88e3945faa37223e93acb4f14
+run_name: efficient-chimp-30
+run_uuid: 2f2caea88e3945faa37223e93acb4f14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761182953359
+status: 3
+tags: []
+user_id: jhonn

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/My%20Projects%20-%20English/Dry%20Bean%20Classification/mlruns/462293831170206625/c899f0bdace141d8b74f9a06f97b0209/artifacts
+end_time: 1761183599853
+entry_point_name: ''
+experiment_id: '462293831170206625'
+lifecycle_stage: active
+run_id: c899f0bdace141d8b74f9a06f97b0209
+run_name: charming-mole-491
+run_uuid: c899f0bdace141d8b74f9a06f97b0209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761183594147
+status: 3
+tags: []
+user_id: jhonn

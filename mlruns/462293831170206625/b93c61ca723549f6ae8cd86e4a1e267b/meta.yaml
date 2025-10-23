@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/My%20Projects%20-%20English/Dry%20Bean%20Classification/mlruns/462293831170206625/b93c61ca723549f6ae8cd86e4a1e267b/artifacts
+end_time: 1761183426391
+entry_point_name: ''
+experiment_id: '462293831170206625'
+lifecycle_stage: active
+run_id: b93c61ca723549f6ae8cd86e4a1e267b
+run_name: bedecked-moose-499
+run_uuid: b93c61ca723549f6ae8cd86e4a1e267b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761183420851
+status: 3
+tags: []
+user_id: jhonn
