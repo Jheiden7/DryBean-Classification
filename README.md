@@ -2,7 +2,7 @@
 
 ## [🔗 View the full notebook on Google Colab](https://colab.research.google.com/github/Jheiden7/DryBean-Classification/blob/main/DryBean%20Classification.ipynb)
 
-<a href="https://archive.ics.uci.edu/dataset/602/dry+bean+dataset" target="_blank">Dataset Link</a>
+<a href="https://archive.ics.uci.edu/dataset/602/dry+bean+dataset">Dataset Link</a>
 
 **Description:**
 
