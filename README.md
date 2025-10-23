@@ -1,5 +1,7 @@
 # DryBean-Classification
 
+<a href="https://archive.ics.uci.edu/dataset/602/dry+bean+dataset">Dataset Link</a>
+
 **Description:**
 
 Images of 13,611 grains from 7 different registered dry bean varieties were captured using a high-resolution camera. From these images, a total of 16 features were extracted — 12 related to dimensions and 4 to shape characteristics.
@@ -37,5 +39,4 @@ The objective is to identify the type of bean (among the 7 possible classes) bas
 **Dry Bean Classes**
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*Pasxnagn5s8t5fqPkKYLiQ.png" alt="Dry Beans" />
-
 
