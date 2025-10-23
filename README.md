@@ -6,15 +6,15 @@
 
 **Description:**
 
-Images of 13,611 grains from 7 different registered dry bean varieties were captured using a high-resolution camera. From these images, a total of 16 features were extracted — 12 related to dimensions and 4 to shape characteristics.
+- Images of 13,611 grains from 7 different registered dry bean varieties were captured using a high-resolution camera. From these images, a total of 16 features were extracted — 12 related to dimensions and 4 to shape characteristics.
 
 **Task Type:**
 
-Classification
+- Classification
 
 **Task Description:**
 
-The objective is to identify the type of bean (among the 7 possible classes) based on various geometric and dimensional attributes.
+- The objective is to identify the type of bean (among the 7 possible classes) based on various geometric and dimensional attributes.
 
 **Attribute information:**
 
