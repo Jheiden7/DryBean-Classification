@@ -1,4 +1,4 @@
-# DryBean-Classification
+# Dry Bean Classification
 
 ## [🔗 View the full notebook on Google Colab](https://colab.research.google.com/github/Jheiden7/DryBean-Classification/blob/main/DryBean%20Classification.ipynb)
 
